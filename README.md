@@ -27,7 +27,7 @@ This project implements an automatic traffic signal indicator that utilizes live
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/automatic-traffic-signal-indicator.git
+   git clone https://github.com/saicharan0623/automatic-traffic-signal-indicator.git
    cd automatic-traffic-signal-indicator
    ```
 
